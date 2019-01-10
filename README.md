@@ -1,4 +1,5 @@
+![](https://img.shields.io/badge/build-passing-brightgreen.svg)
 
-# music_player ![](https://img.shields.io/badge/Android%20--blue.svg)
-Simple Music Player For Android Users....!!!!
+# music_player
+Simple Music Player For Android Users.
 
